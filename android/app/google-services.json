@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626088962931",
+    "project_id": "availalert-22e83",
+    "storage_bucket": "availalert-22e83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626088962931:android:4fb345580d573f676fb306",
+        "android_client_info": {
+          "package_name": "com.example.availalert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRsWjWFqZ4W_9ay8S1auhvUkdtp6wahDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
